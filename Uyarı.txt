@@ -1,0 +1,7 @@
+-SQL Server 2017 ( Rar dosyasýnda  bulunan Generate Script veritabaný yedeði Sql Server 2008 ve sonrasý versiyonuyla
+ uyumlu yedektir.)
+-Projeyi ilk kez çalýþtýrdýðýnýzda bilgisayarýnýzýn "C:\Aplus  "  dizininde  Aplus diye klasör oluþacaktýr. 
+Proje çalýþýyorken(Start) , bu klasör( C:\Aplus ) içinde oluþturacaðýnýz  herhangi bir .txt , .png , .docx vb.  
+dosyayý  veritabanýna eþ zamanlý bir þekilde kayýt edecektir.Ayrýca ilgili dizinde ki dosyada silme , 
+deðiþtirme ve yeniden adlandýrma yapýlmasý durumunda Console ekranýnda deðiþiklikler anlýk olarak gözükecektir. 
+Silme - Deðiþtirme - Yeniden adlandýrmada veritabaný iþlemleri için proje geliþtirilmeye açýktýr.
