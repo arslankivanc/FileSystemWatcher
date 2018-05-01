@@ -1,0 +1,11 @@
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\bin\Debug\AplusDizinProje.exe.config
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\bin\Debug\AplusDizinProje.exe
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\bin\Debug\AplusDizinProje.pdb
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\bin\Debug\EntityFramework.dll
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\bin\Debug\EntityFramework.xml
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\obj\Debug\AplusDizinProje.csprojResolveAssemblyReference.cache
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\obj\Debug\AplusDizinProje.csproj.CoreCompileInputs.cache
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\obj\Debug\AplusDizinProje.exe
+C:\Users\KArslan\source\repos\AplusDizinProje\AplusDizinProje\obj\Debug\AplusDizinProje.pdb
